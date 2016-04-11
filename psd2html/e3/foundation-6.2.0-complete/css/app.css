@@ -1,0 +1,52 @@
+
+body{
+}
+.row1{
+    background-color: darkgray;
+  height: 100px
+}
+.h1{
+    font-size: 56px;
+    color: yellow;
+    text-align: center;
+    background-color: #2f4f4f;
+}
+.row2{
+  background-image:url(bg.jpg);
+    
+    background-size: cover
+}
+.bg{
+    width: 90%;
+    height: 
+}
+.r{
+    height: 200px
+}
+.i{
+    text-align:center;
+}
+.w{
+    color: white;
+    font-size: 180%
+}
+.j{
+  font-size: ; 
+    color:white;
+   
+    
+}
+ .f { 
+     text-align: center;
+     color:orange;
+     font-size:30px;
+      background-color: black;
+     border-radius: 40%
+}
+.g{
+    background-color:#696969;
+}
+.k{
+    color: #696969;
+    font-size: 20px
+}
